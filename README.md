@@ -8,7 +8,7 @@ Procurei rapidamente na internet e não encontrei algo que me ajudasse rapidamen
 então resolvi fazer um programa para mim, como mais uma forma de treinar também.
 
 No momento o programa:
-- Recebe dois números na base 2 ou em binário (estilo Python, 0bXXXX)
+- Recebe dois números na base 10 ou em binário (estilo Python, 0bXXXX)
 - Checa se está tudo certo e imprime no console a conta armada já com o resultado
 
 Planos para o futuro (talvez):
